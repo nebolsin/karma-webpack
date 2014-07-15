@@ -23,5 +23,9 @@
 		}
 	],
 	"homepage": "http://github.com/webpack/karma-webpack",
-	"main": "index.js"
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/webpack/karma-webpack.git"
+	}
 }
